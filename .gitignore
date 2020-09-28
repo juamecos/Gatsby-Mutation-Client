@@ -1,0 +1,12 @@
+# Project dependencies
+.cache
+node_modules
+yarn-error.log
+
+# Env variables
+.env
+
+# Build directory
+/public
+.DS_Store
+.netlify
